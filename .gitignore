@@ -1,0 +1,11 @@
+rl_grid_agent/
+train_data/
+checkpoints/
+tmp/
+results/
+__pycache__/
+.vscode/
+*.pyc
+*.tfrecord
+*.tfrecords
+*.h5
